@@ -128,13 +128,6 @@ def web_page():
                             <strong> """+ b_value +""" </strong>  
                             </td>
                         </tr>
-                        <tr>
-                            <td colspan="2">
-                                <center>
-                                    <a href="https://cooltext.com"><img src="https://images.cooltext.com/5626291.png" width="946" height="144" alt="LRRAAJLS-Raspberry-Team" /></a>
-                                </center>
-                            </td>
-                        </tr> 
                     </tbody>
                 </table>
             </body>
