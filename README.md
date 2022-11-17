@@ -24,12 +24,11 @@
 # WebServer-McTeam
 # 3.2 Pico W, Webserver con 3 sensores y animación UIX
 
-Diagrama
+<h2> Diagrama </h2>
 
 
 
 
-
-Resultados
+<h2> Resultados </h2>
 
 ![image](Practica%20final.gif)
