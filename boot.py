@@ -14,8 +14,8 @@ import network
 import gc
 gc.collect()
 
-ssid = 'Velasques'
-password = '1234567891'
+ssid = 'JavSound'
+password = '123456789'
 
 station = network.WLAN(network.STA_IF)
 
