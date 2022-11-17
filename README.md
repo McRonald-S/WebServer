@@ -26,7 +26,7 @@
 
 <h2> Diagrama </h2>
 
-
+![imagen](https://github.com/McRonald-S/WebServer/blob/main/Diagrama.jpg)
 
 
 <h2> Resultados </h2>
